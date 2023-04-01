@@ -22,10 +22,7 @@
   ],
   "private": false,
   "author": "Dominik Lippl <dominik.lippl@hotmail.de>",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/dominiklippl/rest-utilities.git"
-  },
+  "repository": "https://github.com/dominiklippl/rest-utilities.git",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com",
     "tag": "latest"
