@@ -20,6 +20,7 @@
   "files": [
     "dist"
   ],
+  "private": false,
   "author": "Dominik Lippl <dominik.lippl@hotmail.de>",
   "repository": {
     "type": "git",
