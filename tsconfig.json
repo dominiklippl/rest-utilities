@@ -1,0 +1,29 @@
+{
+  "compilerOptions": {
+    "experimentalDecorators": true,
+    "target": "ESNext",
+    "module": "ESNext",
+    "lib": [
+      "ESNext",
+      "DOM"
+    ],
+    "outDir": "./dist/lib",
+    "moduleResolution": "Node",
+    "useDefineForClassFields": true,
+    "strict": true,
+    "sourceMap": true,
+    "resolveJsonModule": true,
+    "esModuleInterop": true,
+    "declarationDir": "./types",
+    "noUnusedLocals": true,
+    "declaration": true,
+    "allowJs": true,
+    "noUnusedParameters": true,
+    "noImplicitReturns": true,
+    "emitDecoratorMetadata": true
+  },
+  "include": [
+    "src/**/*.ts",
+    "src/**/*.d.ts",
+  ]
+}
